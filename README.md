@@ -7,7 +7,7 @@ Repositório criado para o desafio de projeto da DIO
 
 Ao digitar algum número o programa verifica se tal número é ou não um número primo.
 
-##Link Útil
+## Link Útil
 
 Este programa foi realizado durante o curso de Python pelo canal
 
